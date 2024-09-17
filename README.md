@@ -1,6 +1,3 @@
-Lien 
-: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khitchang/Examen_Analyse_des_donn-es/HEAD)
-
 # Examen_Analyse_des_donnees
 
 # Question 1 : Extraction des données sur les actions de Tesla avec yfinance 
